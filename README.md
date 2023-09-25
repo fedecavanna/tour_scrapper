@@ -4,10 +4,10 @@
 This Python script scraps a website to extract data about different city tours related to the tourism industry. It outputs the data in JSON format, which can be used to create a database, generate a website, or analyse the data.
 
 ## Features
-* Extracts data for sightseeing and discovery tours.
+* Extracts data for different excursions and tours.
 * Outputs the data in JSON format.
 
-## Output
+## Output example
 ```
 JSON
 {
@@ -49,5 +49,5 @@ JSON
   ]
 }
 ```
-## Note
+## Update
 This script serves as a demonstration of its functionality and is not meant for practical data extraction purposes. To protect the website's business model and data, please be aware that the URL hardcoded within this script is fictional.
