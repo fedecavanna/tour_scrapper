@@ -1,9 +1,9 @@
 # Python tourism Scrapper
 
+## About
 This Python script scraps a website to extract data about different city tours related to the tourism industry. It outputs the data in JSON format, which can be used to create a database, generate a website, or analyse the data.
 
 ## Features
-
 * Extracts data for sightseeing and discovery tours.
 * Outputs the data in JSON format.
 
